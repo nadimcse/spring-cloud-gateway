@@ -5,7 +5,7 @@
             <!--<id>docker-hub</id>-->
             <id>docker.io</id>
             <username>doc185174</username>
-            <password>####</password>
+            <password>#######</password>
         </server>
     </servers>
 </settings>
